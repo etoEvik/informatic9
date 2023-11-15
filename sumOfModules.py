@@ -12,7 +12,7 @@ def addNumbers(limitNumbers):
 
 
 totalSum = addNumbers(maxNumbers)
-print('Сума модулів введених чисел ' + str(totalSum))
+print('Сума модулів введених чисел: ' + str(totalSum))
 
 
 
